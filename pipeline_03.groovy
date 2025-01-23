@@ -1,4 +1,4 @@
-pipelineJob("PIPELINEJOB_02") {
+pipelineJob("PIPELINEJOB_03") {
   description("testing seed")
 	
   definition {
