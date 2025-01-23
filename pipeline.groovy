@@ -46,3 +46,4 @@ pipelineJob("PIPELINEJOB_01") {
 
   }
 }
+}
